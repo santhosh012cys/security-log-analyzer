@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+[🔐 Open Security Log Analyzer Dashboard](YOUR_STREAMLIT_LINK)
 # 🔐 Security Log Analyzer
 
 A Python-based cybersecurity project that analyzes login logs,
